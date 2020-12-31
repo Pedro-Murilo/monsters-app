@@ -12,9 +12,9 @@ And this application was made with ReactJS! I've learned a lot content with this
 ## 🌟 And you can see all files and how to run in your browser [here](https://github.com/Pedro-Murilo/monsters-app/tree/master)
 
 ## ⌨ How run the app
-### - First step: 
+### First step: 
 Run this code in your terminal `git clone git@github.com:Pedro-Murilo/monsters-app.git`
-### - Second step: 
+### Second step: 
 Type `yarn` and wait to install the files
-### - Third step:
+### Third step:
 After install the files, type in your terminal `yarn start` and wait the app runs in your browser on `localhost:3000`
