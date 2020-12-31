@@ -10,7 +10,7 @@ And this application was made with ReactJS! I've learned a lot content with this
 
 ---
 ## 🌟 You can see this project in [Monsters](https://pedro-murilo.github.io/monsters-app/)
-## 🌟 And you can see the all files and how to run in your browser [here](https://github.com/Pedro-Murilo/monsters-app/tree/master)
+## 🌟 And you can see all files and how to run in your browser [here](https://github.com/Pedro-Murilo/monsters-app/tree/master)
 ---
 
 ## ⌨ How run the app
